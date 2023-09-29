@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music Performance"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Society",
+      "African American Studies"
+    ]
+  ],
+  "legacy_uid": "a1a288d2-7f2e-4604-e13e-ffdc0a04c820",
+  "instructors": {
+    "content": [
+      "5a0083c4-2430-dc86-3cf4-1a3d8ad30e50"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1d1818b0-0c04-2646-b9ab-75b69b12e5cf",
+    "website": "21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005"
+  },
+  "course_title": "Vocal Repertoire and Performance: African American Composers",
+  "course_description": "The primary focus of this Vocal Repertoire and Performance course is placed upon the works of African American composers and concert artists. Students gather biographical data and explore art songs, operatic arias, ensembles, choral masterpieces, and arrangements employing sacred and secular texts. Additionally, students conduct inquiry into works representative of their own heritage. This course is required for vocalists in the MIT Emerson Music Performance program; others may be admitted by audition.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "21M.515",
+  "primary_course_number": "21M.410",
+  "course_image_thumbnail": {
+    "content": "7f2f5e31-a38d-2ff5-1094-3540d3f890ff",
+    "website": "21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "e0c2ef07-d2a5-4666-9883-4fbdb92b3097",
+  "site_short_id": "21m.410-spring-2005",
+  "title": "Course Metadata"
+}
